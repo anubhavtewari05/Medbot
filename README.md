@@ -4,6 +4,9 @@
 This project demonstrates how to build and deploy a Medical Chatbot using LangChain, Pinecone, Groq, Flask, and AWS (ECR + EC2 + GitHub Actions CI/CD).
 The chatbot leverages RAG (Retrieval-Augmented Generation) with Pinecone vector storage for medical knowledge and Groq LLMs for fast, reliable responses.
 
+
+
+
 ⚙️ Tech Stack
 
 Python 3.10+
@@ -21,6 +24,10 @@ Docker – Containerization
 AWS EC2 & ECR – Deployment infrastructure
 
 GitHub Actions – CI/CD automation
+
+
+
+
 
 🚀 Getting Started (Local Setup)
 1. Clone the Repository
@@ -49,6 +56,9 @@ python app.py
 
 
 Now open: http://localhost:8080
+
+
+
 
 ☁️ AWS Deployment Guide
 1. Login to AWS Console
