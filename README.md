@@ -31,8 +31,7 @@ GitHub Actions – CI/CD automation
 
 🚀 Getting Started (Local Setup)
 1. Clone the Repository
-git clone https://github.com/entbappy/Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS.git
-cd Build-a-Complete-Medical-Chatbot-with-LLMs-LangChain-Pinecone-Flask-AWS
+git clone <repo_name>
 
 2. Create a Conda Environment
 conda create -n medibot python=3.10 -y
